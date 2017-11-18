@@ -81,16 +81,25 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "16px"
+            },
+            "H3": {
+              "font-size": "80px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": false,
+            "showText": true,
+            "showButtons": true,
             "inverse": true,
             "imageSize": "54",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -128,12 +137,12 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH BACKGROUND VIDEO",
-          "text": "This is an intro with beautiful background video and image on the left side.",
+          "title": "CAM ON THE BEAT",
+          "text": "Quality Instrumental Downloads",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BEATS</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CREDITS</a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-3"
         },
